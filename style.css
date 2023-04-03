@@ -901,6 +901,11 @@ footer span a:hover{
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+
+.linked {
+    text-decoration: none;
+    color: white;
+}
 /* End Projects section */
 /* Keyframes */
 @keyframes hamburger_puls {
